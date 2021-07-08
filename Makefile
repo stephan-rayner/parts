@@ -1,0 +1,3 @@
+
+new:
+	./scripts/templateNewPart.sh
