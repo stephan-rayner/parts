@@ -10,7 +10,7 @@ pushd $(dirname "${0}") >> /dev/null
 		mkdir "./${PartName}/"
 		
 		pushd "./${PartName}/" >> /dev/null
-			mkdir src bin
+			mkdir src bin vendor
 			touch ./src/.gitkeep
 			touch ./bin/.gitkeep
 			echo "# ${PartName}" > README.md
