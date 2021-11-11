@@ -13,6 +13,7 @@ pushd $(dirname "${0}") >> /dev/null
 			mkdir src bin vendor
 			touch ./src/.gitkeep
 			touch ./bin/.gitkeep
+			touch ./vendor/.gitkeep
 			echo "# ${PartName}" > README.md
 			echo "" >> README.md
 			echo "## ${PartDescription}" >> README.md
