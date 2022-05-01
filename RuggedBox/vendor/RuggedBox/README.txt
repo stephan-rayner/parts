@@ -1,0 +1,1 @@
+zx82net Ultimate Parametric Rugged Box - Snap Closure by zx82net on Thingiverse: https://www.thingiverse.com/thing:4786176
